@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PwdAudit.Core.Abstractions
 {
-    public interface IPasswordAnalyzer
+    internal interface IMetrics
     {
     }
 }
