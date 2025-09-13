@@ -40,4 +40,4 @@ tests/
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Open an [issue](../../issues) or a pull request.
 ## 📜 License
-MIT License – see [LICENSE](LICENSE) for details.
+GPLv3 License – see [LICENSE](LICENSE) for details.
