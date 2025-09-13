@@ -32,12 +32,15 @@ tests/
   PwdAudit.Tests  → Unit and integration tests
 ```
 ## 🛠 Roadmap
-- [ ] Implement strength scoring rules  
-- [ ] Add breach checker (offline + optional online)  
-- [ ] Add policy evaluation and presets  
-- [ ] Support batch/CI modes with JSON output  
-- [ ] Package as a .NET tool  
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Open an [issue](../../issues) or a pull request.
+## 🛠 Roadmap
+- [ ] Provide clean DTOs + domain models in core 
+- [ ] Implement strength scoring rules (length, variety, patterns)  
+- [ ] Add breach checker (offline wordlists + optional HIBP API)  
+- [ ] Add policy evaluation engine with presets (default, strict, NIST)  
+- [ ] Support batch + CI modes with JSON output and exit codes  
+- [ ] Improve observability (structured logs, safe masking)  
+- [ ] Add GitHub Actions example for CI integration  
+- [ ] Write docs with examples for CLI, API, and CI usage  
+- [ ] Package as a .NET global tool with config file support   
 ## 📜 License
 GPLv3 License – see [LICENSE](LICENSE.txt) for details.
